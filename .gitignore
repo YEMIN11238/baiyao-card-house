@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+**/.runtime/
+*.log
+*.pid
+*.zip
+__pycache__/
+*.pyc
+/art/
+/work/
+/outputs/
+/backups/
+/dist/
